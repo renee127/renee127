@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on the Practicum by Yandex bootcamp curriculum
 - 📗 I’m currently learning python, database design, data analytics
-- 👩‍💻 I want to learn how to start contributing to open source projects
+- 👩‍💻 I want to start contributing to open source projects
