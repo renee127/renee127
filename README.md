@@ -6,7 +6,7 @@
 - 👩‍💻 I want to start contributing to open source projects
 - 🧭 Looking for a full time remote job
 
-Collection of some programming assignments completed for Practicum's Data Scientist professional training program.
+### Collection of some programming assignments completed for Practicum's Data Scientist professional training program.
 
 | Project Name  | Notebook      | Description   | Dependencies  | Sprint Number  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
