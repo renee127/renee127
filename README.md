@@ -5,6 +5,8 @@
 - 📗 I’m currently learning about python, data analytics, and digital art
 - 👩‍💻 I want to start contributing to open source projects
 - 🧭 Looking for a full time remote job
+- 📫 Best way to contact me: [email](mailto:reneemraven@yahoo.com)
+
 
 ### Collection of programming assignments completed for Practicum's Data Scientist professional training program:
 
