@@ -4,7 +4,7 @@
 - 💻 I recently earned the Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!)
 - 👩‍💻 I plan to start contributing to open source projects
 - 🔎 Looking for a full time remote job
-- 📫 Best way to contact me: [rraven2021@fau.edu](mailto:reneemraven@yahoo.com)
+- 📫 Best way to contact me: [rraven2021@fau.edu](mailto:rraven2021@fau.edu)
 
 
 ### Collection of programming assignments completed for Practicum's Data Scientist professional training program:
