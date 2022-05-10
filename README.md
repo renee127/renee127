@@ -1,4 +1,4 @@
-### Hi there 😊 My name is Renee
+### Hi there 😊 
 
 - 🧑‍🎓 I’m currently working on an MS in Data Science and Analytics at Florida Atlantic University
 - 💻 I recently earned the Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!)
