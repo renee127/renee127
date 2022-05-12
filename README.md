@@ -2,7 +2,7 @@
 
 Junior Data Analyst 
 
-- 🧑‍🎓 I’m currently working on an MS in Data Science and Analytics at Florida Atlantic University
+- 🌱 I’m currently working on an MS in Data Science and Analytics at Florida Atlantic University
 - 💻 I recently earned the Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!)
 - 👩‍💻 I plan to start contributing to open source projects
 - 🔎 Looking for a full time remote job
