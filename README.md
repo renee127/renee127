@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Renee
 
 - 🌱 I’m starting the PhD program (computer science) at Florida Atlantic University in Spring 2023
-- :woman_student: MS in Data Science and Analytics at Florida Atlantic University
-- 👩‍💻 I recently earned the Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!)
+- :woman_student: MS in Data Science and Analytics at Florida Atlantic University December 2022
+- 👩‍💻 Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!) April 2022
 - 🔎 I'm looking for a full time remote job
 - 📫 How to reach me: [rraven2021@fau.edu](mailto:rraven2021@fau.edu) or [https://www.linkedin.com/in/renee-raven/](https://www.linkedin.com/in/renee-raven/)
 
