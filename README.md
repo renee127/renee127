@@ -3,7 +3,7 @@
 - :woman_student: MS in Data Science and Analytics at Florida Atlantic University 
 - 👩‍💻 Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!) April 2022
 - 🔎 I'm looking for a full time remote job
-- 📫 How to reach me: [rraven2021@fau.edu](mailto:rraven2021@fau.edu) or [https://www.linkedin.com/in/renee-raven/](https://www.linkedin.com/in/renee-raven/)
+- 📫 How to reach me: [rraven2021@fau.edu](mailto:rraven2021@fau.edu)
 
 
 ### Collection of programming assignments completed for Practicum's Data Scientist professional training program:
