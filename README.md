@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Renee
 
-- :woman_student: MS in Data Science and Analytics at Florida Atlantic University 
+- :woman_student: MS in Data Science and Analytics at Florida Atlantic University
+- Registered Nurse in Florida
 - 👩‍💻 Data Scientist Certificate from Practicum by Yandex (Thank you Women Who Code for the Scholarship!) April 2022
 - 📫 How to reach me: [rraven2021@fau.edu](mailto:rraven2021@fau.edu)
 
